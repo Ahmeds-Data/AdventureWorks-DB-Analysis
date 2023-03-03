@@ -5,7 +5,8 @@ The Adventure works dataset is obtained from Kaggle, an open-source
 platform which provides a large number of datasets and problems for users to work 
 on, and it also provides tools for users to submit and evaluate their models.
 </div>
-[Adventure Works](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
+<a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce" target="_blank">Adventure Works on Kaggle</a>
+
 <br>
 <div align="justify">
 The Adventure Works dataset consists of 18,000 customers, both women and 
