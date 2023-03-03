@@ -29,7 +29,7 @@ with their returned orders and the territories where it has shipped from and int
 <div align="justify">
 Adventure works cycles, is a company on which the adventure works sample 
 databases are based, is a large, multinational manufacturing company. The company 
-manufactures and sells metal and composite bicycles to ten territories, including northAmerican, 
+manufactures and sells metal and composite bicycles to ten territories, including north American, 
 European and Asian commercial markets. The company is focusing on four 
 different categories like Bikes, Components, Clothing and Accessories. While its base 
 operation is located in Bothell, several regional sales teams are located throughout 
