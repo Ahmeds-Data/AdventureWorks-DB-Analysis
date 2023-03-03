@@ -79,7 +79,7 @@ it must involves unique values. These sales table have combined most of the othe
 tables primary keys as a foreign key’s in it, as well as sharing one-to-many relations
 from them.
   </div>
-  
+  <br>
 - Statistical queries
 <div align="justify">
 Statistical queries were performed for a better understanding of the selected 
