@@ -88,6 +88,7 @@ average sales for the most purchased products in 2015, 2016, and 2017, Median va
 of annual income of our customers and mean value of product sales from years 2015, 
 2016, and 2017.
   </div>
+  
 ![staistical queries 1](https://user-images.githubusercontent.com/126220185/222852845-6086c556-a0d0-418b-a153-5b8a6b93c5e8.png)
 ![statistical queries 2](https://user-images.githubusercontent.com/126220185/222852832-0395d781-5a5f-4a41-a144-ab6627221fec.png)
 ![statistical queries 3](https://user-images.githubusercontent.com/126220185/222852839-c699e263-2f1b-436c-bfa1-75cd6c2cca00.png)
